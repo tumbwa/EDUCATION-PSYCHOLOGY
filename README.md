@@ -1,2 +1,2 @@
-# zuuu
+# EDUCATIONAL PSYCHOLOGY
 for lesrning
