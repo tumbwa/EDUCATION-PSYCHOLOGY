@@ -1,0 +1,253 @@
+
+h3 {
+background-color : #ea9;
+}
+.tatu {
+height : 20%;
+width : 30%;
+}
+#top {
+background : yellow;
+color : white;
+padding : 2px;
+overflow-wrap : break-word;
+border : solid 2px;
+border-radius : 50%;
+}
+.wo {
+margin : 0;
+}
+
+.psy {
+background-color : #caf;
+text-shadow : 7px 7px 7px white;
+background-size : 100% auto;
+word-spacing : 10px;
+background-image : url(img/kili.jpg);
+background-size : contain;
+}
+a.nav-link {
+text-transform : capitalize;
+}
+.upa {
+text-transform : uppercase;
+}
+.texti {
+text-transform : capitalize;
+}
+.ona {
+background : rgb(0 123 0 / 0.7);
+}
+.sikia {
+background : rgb(100 193 17 / 0.3);
+}
+.fut {
+color : black;
+background : rgb(230 240 250 / 0.6);
+}
+.saiz {
+font-size : 70%;
+font-style : oblique;
+font-family : monospace;
+}
+#hasa {
+background-color : #caf;
+text-shadow : 5px 4px 7px yellow;
+background-size : 100% auto;
+word-spacing : 10px;
+background-image : url(img/hassani.jpg);
+background-size : contain;
+}
+
+.listi {
+list-style-type : none;
+background-color : #ccc;
+}
+#h11 {
+color : #fae;
+background-color : #01a;
+transform : skew(-30deg);
+width : 70%;
+}
+.imeji {
+width : auto;
+height : auto;
+padding : 1%;
+}
+.kadi {
+margin-left : -1%;
+width : 15rem;
+padding : 1%;
+}
+.menu {
+width : 100%;
+height : 100%;
+transform : scale(0.6,0.8);
+margin-left : 100px;
+}
+small {
+background : yellow;
+}
+#ani {
+width : 100px;
+height : 100px;
+background-color : blue;
+transition : width 2s, height 3s, transform 2s;
+text-overflow : ellipsis;
+overflow : hidden;
+}
+.list-group-item-action {
+color : #0000ee;
+}
+.list-group-item-action:hover {
+color : skyblue;
+}
+list-group-item-action:visited {
+color : red;
+}
+#ani:hover {
+width : 300px;
+height : 300px;
+text-shadow : 3px 4px 2px white;
+background : rgb(255 0 0 / 0.9);
+}
+.tex {
+text-transform : capitalize;
+list-style-type : upper-roman;
+text-shadow : 2px 7px 2px #dae, 2px 7px 2px #dfe;
+font-size : 33px;
+margin : 2%;
+padding : 8%;
+transform : skew(30deg);
+background-color : #ea9;
+}
+
+.kii {
+font-size : 70px;
+font-style : italic;
+font-family : cursive;
+text-shadow : 2px 7px 7px red;
+}
+#ki {
+font-size : 90px;
+font-style : italic;
+font-family : cursive;
+text-shadow : 2px 9px 4px red;
+}
+#best {
+float : left;
+width : 150px;
+height : 95px;
+border : yellow double 12px;
+border-radius : 50px;
+}
+body {
+  background: -webkit-linear-gradient(left , blue,yellow,rgba(0, 0, 0, 1),yellow,green);
+  background: -moz-linear-gradient( left, blue,yellow,rgba(0, 0, 0, 1),yellow,green);
+  background: -o-linear-gradient(left,  blue,yellow,rgba(0, 0, 0, 1),yellow,green);
+  background: linear-gradient(left , blue,yellow,rgba(0, 0, 0, 1),yellow,green);
+display : inline;
+text-align : center;
+
+
+}
+.bodi {
+text-align : center;
+background-color: #020;
+}
+sub {
+background : rgb(2 40 200 / 0.6);
+color : white;
+}
+.ovaflo {
+text-overflow : ellipsis;
+overflow-wrap : break-word;
+}
+.modal-title {
+background-color : green;
+color : white;
+}
+.filta {
+background-color : #caf;
+}
+button:hover {
+color : yellow;
+box-shadow : 2px 3px black;
+}
+.mati {
+padding : 40px;
+background-color : #d61f89;
+margin-left : 50px;
+margin-right : 50px;
+}
+#ali {
+background-color : pink;
+position : fixed;
+padding-left : 0;
+margin-left : -110px;
+font-size : 30px;
+text-align : left;
+float : left;
+}
+.divma {
+margin : 50px;
+}
+#has {
+width : 30px;
+height : 30px;
+}
+.myScrollspy1 {
+position : relative;
+overflow-y : scroll;
+}
+hr {
+color : purple;
+height : 2px;
+}
+.spaic {
+background : #cca;
+}
+.spai {
+background : white;
+}
+.home {
+background-color : #1ff;
+position : fixed;
+padding : 10px;
+}
+.majini {
+margin : 50px;
+text-align : center;
+}
+.ran {
+background : skyblue;
+}
+.zuu {
+background : #5de;
+}
+.wew {
+background : #996;
+}
+.zuw {
+background : #ccc;
+}
+.njano {
+background : yellow;
+color : black;
+}
+
+.spaica {
+background-color : pink;
+animation : myfirsti 6s 2s linear infinite alternate;
+}
+@keyframes myfirsti {
+0% {
+background-color : red;
+color : black;
+}
+25% {
+background-color : yellow;
+}
+50% {
+background-color : pink;
+}
